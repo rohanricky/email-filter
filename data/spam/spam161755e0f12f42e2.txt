@@ -1,0 +1,1 @@
+Get introduced to Computer Vision and its applications like face recognition, object recognition, emotion recognition and master OpenCV udacity Computer Vision Foundation Nanodegree Get introduced to

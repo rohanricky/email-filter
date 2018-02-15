@@ -1,0 +1,1 @@
+newton forward backward interpolation, quadrature formula-trapezoidal(weddle,simpson 1/3,3/8), rungr kutta, euler&#39;s method, modified euler&#39;s method,lagrange&#39;s from mantu sir. jayanat sir-

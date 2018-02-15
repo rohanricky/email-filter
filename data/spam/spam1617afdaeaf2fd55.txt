@@ -1,0 +1,1 @@
+View this email in browser The Whip ISSUE 674 Failure To Launch WordPress News If you normally rely on built-in auto-update feature for minor releases for WordPress core, you will need to manually

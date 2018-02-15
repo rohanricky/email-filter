@@ -1,0 +1,1 @@
+Computer Vision is an indispensable technology used in many advanced technologies today like autonomous vehicles, image search, Face ID, and more! UDACITY Master Computer Vision: core technology used
