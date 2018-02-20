@@ -36,7 +36,7 @@ def trash(service,msg_id):
 			subject=shit['value']
 	sender=sender.lower()
 	subject=subject.lower()
-	print(sender)
+#	print(sender)
 	spam_list=['pinterest','linkedin','youtube','facebook','stackoverflow','github','udemy','quora','no-reply','noreply']
 	for damnit in spam_list:
 		if damnit in sender:
@@ -53,7 +53,7 @@ def main():
 	http = credentials.authorize(httplib2.Http())
 	service = discovery.build('gmail', 'v1', http=http)
 	messages=get_messages(service,'')
-	data_collection(service)
+#	data_collection(service)
 	for x in messages:
 		trash(service,x['id'])
 

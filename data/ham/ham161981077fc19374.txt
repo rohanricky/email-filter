@@ -1,0 +1,1 @@
+rohanricky, In order to complete your account registration, you must type the following command on IRC: /msg NickServ VERIFY REGISTER rohanricky itmrpyatoitc Thank you for registering your account on
