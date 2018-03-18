@@ -7,7 +7,7 @@ from apiclient import discovery
 from oauth2client import client
 from oauth2client import tools
 from oauth2client.file import Storage
-from google_credentials import get_credentials
+from .google_credentials import get_credentials
 import pprint
 import json
 import tensorflow as tf
